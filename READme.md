@@ -1,4 +1,4 @@
-# MATLAB qPCR Data Reader
+# qPCR Data Reader
 These scripts are to read CSV files from a RT-qPCR thermocycler and extracts data and visualizes replicates with their error bars.
 
 ### Exporting CSV Files from qPCR Reader:
